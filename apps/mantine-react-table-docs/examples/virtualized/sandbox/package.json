@@ -9,7 +9,7 @@
     "start": "vite"
   },
   "dependencies": {
-    "@faker-js/faker": "^9.5.0",
+    "@faker-js/faker": "^10.5.0",
     "@mantine/core": "^7.16.3",
     "@mantine/dates": "^7.16.3",
     "@mantine/hooks": "^7.16.3",
